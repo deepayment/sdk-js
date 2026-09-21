@@ -1,6 +1,6 @@
 {
   "name": "@support-deepayment/sdk",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Merchant open API SDK (Ed25519 / RFC 9421 signing, X25519 sealed box body encryption)",
   "repository": { "type": "git", "url": "git+https://github.com/deepayment/sdk-js.git" },
   "homepage": "https://github.com/deepayment/sdk-js#readme",
